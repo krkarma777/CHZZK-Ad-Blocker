@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         Ultra Fast Ad Skipper from CHZZK
+// @name         CHZZK Ad Blocker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  광고를 빠르게 넘기기 위해 비디오 재생 속도를 최대한 빠르게 설정합니다
 // @author       krkarma777
 // @match        https://chzzk.naver.com/*
 // @icon         https://ssl.pstatic.net/static/nng/glive/icon/favicon.png
-// @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.user.js
-// @downloadURL  https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.user.js
+// @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/CHZZK-Ad-Blocker.user.js
+// @downloadURL  https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/CHZZK-Ad-Blocker.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
@@ -73,5 +73,5 @@
         document.querySelectorAll('video').forEach(addVideoEventListeners);
     });
 
-    console.log("Ultra Fast Ad Skipper 스크립트가 실행 중입니다.");
+    console.log("CHZZK Ad Blocker 스크립트가 실행 중입니다.");
 })();
