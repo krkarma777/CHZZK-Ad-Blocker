@@ -6,8 +6,8 @@
 // @autor        krkarma777
 // @match        https://chzzk.naver.com/*
 // @icon         https://ssl.pstatic.net/static/nng/glive/icon/favicon.png
-// @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.js
-// @downloadURL  https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.js
+// @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.user.js
+// @downloadURL  https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
