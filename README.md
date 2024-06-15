@@ -1,4 +1,4 @@
-# Ultra Fast Ad Skipper from CHZZK
+# CHZZK-Ad-Blocker
 
 이 스크립트는 chzzk.naver.com에서 광고 비디오를 빠르게 건너뛰기 위해 비디오 재생 속도를 최대한 빠르게 설정합니다.
 
