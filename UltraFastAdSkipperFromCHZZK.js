@@ -6,6 +6,8 @@
 // @autor        krkarma777
 // @match        https://chzzk.naver.com/*
 // @icon         https://ssl.pstatic.net/static/nng/glive/icon/favicon.png
+// @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.js
+// @downloadURL  https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
@@ -71,5 +73,5 @@
         document.querySelectorAll('video').forEach(addVideoEventListeners);
     });
 
-    console.log("Ultra Fast Ad Skipper from CHZZK 스크립트가 실행 중입니다.");
+    console.log("Ultra Fast Ad Skipper 스크립트가 실행 중입니다.");
 })();
