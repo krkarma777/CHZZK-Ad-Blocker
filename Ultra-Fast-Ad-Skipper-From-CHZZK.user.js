@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  광고를 빠르게 넘기기 위해 비디오 재생 속도를 최대한 빠르게 설정합니다
-// @autor        krkarma777
+// @author       krkarma777
 // @match        https://chzzk.naver.com/*
 // @icon         https://ssl.pstatic.net/static/nng/glive/icon/favicon.png
 // @updateURL    https://raw.githubusercontent.com/krkarma777/UltraFastAdSkipperFromCHZZK/main/UltraFastAdSkipperFromCHZZK.user.js
